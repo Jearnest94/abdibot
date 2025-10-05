@@ -1,0 +1,14 @@
+# Discord Bot for Minecraft Server Notifications
+# Python 3.8+ required
+
+# Discord API wrapper
+discord.py>=2.3.0,<3.0.0
+
+# Minecraft RCON client
+mcrcon>=0.7.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# SFTP client for remote log file access
+paramiko>=3.0.0
